@@ -1,4 +1,6 @@
 [core]
-    remote = storage
+    remote = myremote
 ['remote "storage"']
     url = gdrive://1KB70iqmxvMX5Rmbt29ao3K-9_66b9bKp
+['remote "myremote"']
+    url = s3://mlopswafer8/mlops_wafer8/
